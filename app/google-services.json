@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "183255047547",
+    "firebase_url": "https://forumappchat.firebaseio.com",
+    "project_id": "forumappchat",
+    "storage_bucket": "forumappchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183255047547:android:f14e1ec97d2f979e",
+        "android_client_info": {
+          "package_name": "com.example.kashyap.forumappchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183255047547-649t3sga1j6lqc2qtpnn0qh65s3k9uhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP5BQz_BVsixSBU5g8UgggcEbQnXj8yIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

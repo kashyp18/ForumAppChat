@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Forum App Chat</string>
+    <string name="user_successfully_added">User Successfully Added</string>
+    <string name="user_unable_to_add">User Unable to Add</string>
+    <string name="action_logout">Action Logout</string>
+    <string name="logout">Logout</string>
+    <string name="are_you_sure">Are You Sure</string>
+    <string name="cancel">cancel</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="loading">Loading</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_register">Login Register</string>
+    <string name="register">Register</string>
+    <string name="adding_user_to_db">Adding user to database</string>
+</resources>
